@@ -1,6 +1,6 @@
 using System;
 
-namespace filmes
+namespace Jogo
 {
     class Program
     {
